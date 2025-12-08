@@ -1,0 +1,12 @@
+"Journey start with one step"
+
+Attention scores ->
+to calculate it just multiply key and  query 
+
+
+code:
+
+atten_score_22 = query_2.dot(keys_2)
+
+here query_2 is token -> start
+and key_2 is key for second token
